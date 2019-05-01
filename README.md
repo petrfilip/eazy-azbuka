@@ -1,3 +1,5 @@
-#Eazy Azbuka
+# Eazy Azbuka
 
-My first Android application (in Flutter).
+My first Flutter/Android application.
+
+Application is available online: https://play.google.com/store/apps/details?id=cz.tix.eazy_azbuka
